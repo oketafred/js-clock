@@ -1,5 +1,5 @@
-# js-clock
-JavaScript Clock Project
+# JavaScript Clock Description
+Description Here
 
-JavaScript Clock Project using HTML CSS JavaScript.
+# How to use the project.
 
